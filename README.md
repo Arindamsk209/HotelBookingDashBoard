@@ -4,7 +4,7 @@
 This hotel booking dashboard application provides an interactive visualization of hotel booking data, allowing users to analyze visitor trends over time and by country. Utilizing React.js and ApexCharts, the app features a user-friendly interface with a date range selector, enabling users to filter data and gain insights into booking patterns.
  # Keys Features :
 
-Date Range Selector: Users can filter data by choosing specific dates, helping them see booking trends over their selected period.
+Date Range Selector: Users can filter data by choosing specific dates, helping them see booking trends over thei r selected period.
 
 Time Series Chart: Displays daily visitor counts, showcasing trends over selected time frames.
 
