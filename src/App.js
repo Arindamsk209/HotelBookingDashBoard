@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import hotelData from "./hotel_booking_data.json";
 import TimeSeriesChart from "./TimeSeriesChart";
-import CountryVisitorsChart from "./CountryVisitorsChart";
+import CountryVisitorsChart from "./CountryVisitorsChart"; 
 import SparklineChart from "./SparklineChart";
 import "./App.css";
 
